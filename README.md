@@ -55,7 +55,7 @@ Feel free to experiment with different modifications and tailor the page to your
 
 ## Live Demo
 
-You can see a live demo of the Isha Product Landing Page by visiting the following link: [Isha Product Landing Page - Live Demo](https://your-demo-link)
+You can see a live demo of the Isha Product Landing Page by visiting the following link: [Isha Product Landing Page - Live Demo](https://botirk38.github.io/Isha-Product-Landing-page/)
 
 ## Credits
 
